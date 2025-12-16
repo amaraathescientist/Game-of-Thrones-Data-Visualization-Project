@@ -15,3 +15,7 @@ Excel File: [got_death_data](https://github.com/amaraathescientist/Game-of-Thron
 - House with the most deaths
 - Saeson with the most kills
 - Location where most deaths occurred
+
+## Link To Tableau Public 
+Visuals 1 to 4: [doc_1](https://public.tableau.com/app/profile/amara.udeh/viz/GameofThronesDeathDataVizProject/Dashboard1)\
+Visuals 4 to 6: [doc_2](https://public.tableau.com/app/profile/amara.udeh/viz/GameofThronesDeathDataVizProject2/Dashboard2)
